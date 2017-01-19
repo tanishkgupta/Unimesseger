@@ -1,0 +1,15 @@
+Step 1: Anmol - User Interface + GCM		|
+Step 2: Tanishk - Facebook SDK + Thunderbird	|													
+Step 3: Aman - Telegram + Backend Support
+FB SDK
+whatsapp API search
+1. telegram API
+2. fb,thunderbird API
+server message scheduling
+auto destroy mail
+use GCM for post notifications
+mail system thunderbird
+read only feature in mails
+PARSE for backup system
+intent method to show configurable applications 
+ 
